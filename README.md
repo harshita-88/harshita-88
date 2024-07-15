@@ -1,7 +1,6 @@
--  Hi, I’m Harshita Singh. I have done my graduation from Nit Kurukshetra with a grade pointer of 9.1
+-  I’m Harshita Singh. I have done my graduation from Nit Kurukshetra with a grade pointer of 9.1
 -  Currently I’m a FULL-STACK Java Developer
 -  I am having expertise in Java, Hibernate, SpringBoot, Microservices, Docker, K8S, AWS, Angular
--  I’m looking to contribute on good projects
 -  Reach me on harshita.nitkkr@gmail.com
 
 <!---
